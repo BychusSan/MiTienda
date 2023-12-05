@@ -1,0 +1,4 @@
+MiTienda
+Error deliberado
+::1 - 01/12/2023 12:41:30 -  /api/Dispositivos/PROBAR-EXCEPTION - GET
+

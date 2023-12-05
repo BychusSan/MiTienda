@@ -1,0 +1,88 @@
+::1 - 01/12/2023 12:38:30 -  /api/Dispositivos - GET
+
+::1 - 01/12/2023 12:41:29 -  /api/Dispositivos/PROBAR-EXCEPTION - GET
+
+::1 - 01/12/2023 13:00:13 -  /api/Dispositivos - GET
+
+::1 - 01/12/2023 13:00:30 -  /api/Usuario/hash/nuevousuario - POST
+
+::1 - 01/12/2023 13:00:48 -  /api/Usuario/hash/checkusuario - POST
+
+::1 - 01/12/2023 13:01:03 -  /api/Usuario/login - POST
+
+::1 - 01/12/2023 13:01:36 -  /api/Dispositivos - GET
+
+::1 - 01/12/2023 13:01:48 -  /api/Dispositivos/Marca - GET
+
+::1 - 01/12/2023 13:41:24 -  /api/Dispositivos - GET
+
+::1 - 01/12/2023 13:41:55 -  /api/Usuario/login - POST
+
+::1 - 01/12/2023 13:42:18 -  /api/Dispositivos - GET
+
+::1 - 03/12/2023 22:44:02 -  /api/Dispositivos/Marca - GET
+
+::1 - 03/12/2023 22:44:23 -  /api/Usuario/login - POST
+
+::1 - 03/12/2023 22:44:46 -  /api/Dispositivos/Marca - GET
+
+::1 - 03/12/2023 22:45:16 -  /api/Dispositivos/Marca - GET
+
+::1 - 03/12/2023 23:15:04 -  /api/Dispositivos/ListaDispositivosDetalles - GET
+
+::1 - 03/12/2023 23:19:05 -  /api/Dispositivos/ListaDispositivosDetalles - GET
+
+::1 - 04/12/2023 0:04:10 -  /api/Dispositivos/descatalogar/1 - PUT
+
+::1 - 04/12/2023 0:04:21 -  /api/Dispositivos - GET
+
+::1 - 04/12/2023 0:04:53 -  /api/Dispositivos/descatalogar/2 - PUT
+
+::1 - 04/12/2023 0:05:00 -  /api/Dispositivos - GET
+
+::1 - 04/12/2023 0:05:01 -  /api/Dispositivos - GET
+
+::1 - 04/12/2023 0:05:02 -  /api/Dispositivos - GET
+
+::1 - 04/12/2023 0:09:44 -  /api/Dispositivos/descatalogar/12 - PUT
+
+::1 - 04/12/2023 0:09:51 -  /api/Dispositivos - GET
+
+::1 - 04/12/2023 0:10:29 -  /api/Dispositivos - GET
+
+::1 - 04/12/2023 0:10:45 -  /api/Dispositivos - GET
+
+::1 - 04/12/2023 0:10:52 -  /api/Dispositivos/descatalogar/2 - PUT
+
+::1 - 04/12/2023 0:12:50 -  /api/Dispositivos - GET
+
+::1 - 04/12/2023 0:13:11 -  /api/Dispositivos - GET
+
+::1 - 04/12/2023 0:13:25 -  /api/Dispositivos/descatalogar/2 - PUT
+
+::1 - 04/12/2023 0:13:31 -  /api/Dispositivos/descatalogar/3 - PUT
+
+::1 - 04/12/2023 0:13:36 -  /api/Dispositivos - GET
+
+::1 - 04/12/2023 0:14:05 -  /api/Dispositivos/descatalogar/4 - PUT
+
+::1 - 04/12/2023 0:14:07 -  /api/Dispositivos/descatalogar/5 - PUT
+
+::1 - 04/12/2023 0:14:13 -  /api/Dispositivos - GET
+
+::1 - 04/12/2023 0:15:01 -  /api/Dispositivos - GET
+
+::1 - 04/12/2023 0:15:13 -  /api/Dispositivos/descatalogar/5 - PUT
+
+::1 - 04/12/2023 0:15:19 -  /api/Dispositivos - GET
+
+::1 - 04/12/2023 0:16:24 -  /api/Dispositivos - GET
+
+::1 - 04/12/2023 0:16:36 -  /api/Dispositivos/descatalogar - PUT
+
+::1 - 04/12/2023 0:16:41 -  /api/Dispositivos - GET
+
+::1 - 04/12/2023 0:20:17 -  /api/Dispositivos/descatalogar - PUT
+
+::1 - 04/12/2023 0:20:21 -  /api/Dispositivos - GET
+
